@@ -1,2 +1,5 @@
-# disc-golf-flight-numbers
-A brief foray into the world of disc golf flight numbers to see if machine learning can provide a standardized method of assigning a disc flight numbers.
+# Disc Golf Flight Numbers
+
+The disc golf world does not have a standardized way of assigning flight numbers to discs. If you are unfamiliar with disc golf, think of flight numbers as shoe sizes, or golf club loft, or basketball size, or whatever other relatively standardized measurement you can think of. Because there is no standard for flight numbers, consumers can feel mislead when shopping for new discs to fill a need they have and finding out that the disc doesn't fly as the manufacturer suggests it might. Additionally, disc manufacturers have a propensity to exaggerate how the disc is going to fly to make it more enticing to consumers.
+
+As I try to learn more about machine learning, I figured I could use this data set, found on [my Kaggle](https://www.kaggle.com/jakestrasler/datasets), to try to solve a real-world problem. By using disc dimensions, I create a model that can assign flight ratings to a disc based on its dimensions, creating a fair, consumer-friendly method to give a disc flight numbers.
